@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-4">
               <div className="flex items-center justify-center mr-3 p-1">
-                <img src="/new-logo-design-creative.png" alt="Design Creative Logo" className="w-12 h-auto object-contain" />
+                <img src="new-logo-design-creative.png" alt="Design Creative Logo" className="w-12 h-auto object-contain" />
               </div>
               <div>
                 <h3 className="text-xl font-bold">Arassedé Delapaix</h3>

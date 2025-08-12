@@ -30,7 +30,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center space-x-2">
-            <img src="/new-logo-design-creative.png" alt="Design Creative Logo" className="h-13 w-auto"/>
+            <img src="new-logo-design-creative.png" alt="Design Creative Logo" className="h-13 w-auto"/>
             <div>
               <h1 className="text-xl font-bold text-dc-blue">Arassedé Delapaix</h1>
               <p className="text-sm text-gray-600">Design Creative</p>

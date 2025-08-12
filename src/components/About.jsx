@@ -67,7 +67,7 @@ Trop souvent, ces structures renoncent à une image de qualité faute de budget,
                 <div className="absolute inset-0 bg-gradient-dc opacity-10"></div>
                 <div className="w-80 h-80 mx-auto rounded-2xl overflow-hidden shadow-2xl">
     <img 
-      src="/maphoto.png" 
+      src="maphoto.png" 
       alt="Arassedé Delapaix - Graphiste" 
       className="w-60 h-auto object-cover ml-10"
     />
