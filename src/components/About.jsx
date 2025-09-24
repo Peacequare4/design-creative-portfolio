@@ -54,7 +54,7 @@ Trop souvent, ces structures renoncent à une image de qualité faute de budget,
               ))}
             </div>
 
-            <a href="/CVArassedeDelapaix.pdf" download className="bg-dc-orange hover:bg-dc-orange/90 text-white px-6 py-3 rounded-md font-medium transition-colors">
+            <a href="./CVArassedeDelapaix.pdf" download className="bg-dc-orange hover:bg-dc-orange/90 text-white px-6 py-3 rounded-md font-medium transition-colors">
               Télécharger mon CV
             </a>
           </div>
